@@ -1,8 +1,6 @@
 # DataBase
 ## Universidad Técnica Particular de Loja
 ![image](https://www.utpl.edu.ec/manual_imagen/images/institucional/UTPL-INSTITUCIONAL-FC.jpg)
-# Proyecto Integrador 2022
-Presentación del proyecto final de Fundamentos de Bases de Datos.
 
 ## Datos del Proyecto
 #### Ingeniería en Ciencias de la Computación
@@ -15,7 +13,7 @@ Fundamentos de Base de Datos
 Octubre 2021 - Febrero 2022
 
 ##### Estudiante:
-Adrián Alessandro Rivera Cueva | aarivera7@utpl.edu.ec | aarivera7
+Nixon Javier Vuele Irene | njvuele@utpl.edu.ec |
 
 ##### Link del proyecto en Github: 
 https://github.com/aarivera7/Proyecto_Fun._Bases_Datos_Adrian
