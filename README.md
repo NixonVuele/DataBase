@@ -38,15 +38,16 @@ Direccion del repositorio: https://github.com/NixonVuele/DataBase.git
 
 ## Descripción de los diferentes archivos cargados:
 #### Informe-Presentacion:
-#### Diagrama ER
-#### Informe
-#### Normalisacion
-#### Presentacion
+#### Diagrama ER: # Es el diagrama Relacional
+#### Informe: # Se encuentra el informe donde se detalla un resumen de todo el trabajo elaborado con respecto al csv
+#### Normalisacion: Un archivo exel donde se aplica todas las 3 formas normales del proceso de normalisacion
+#### Presentacion: Diapositivas que se usaron para la presentacion del proyecto
 ### Scripts:
-#### Carga de datos
-#### Creacion de tablas
-#### Insets Movie_DATASET
-#### Procedimientos
+#### Carga de datos: Scrip de todos los inserts de cada una de las tablas creadas
+#### Creacion de tablas: Scrip de todos los create table de las entidades seguidas despues de aplicar normalisacion
+#### Insets Movie_DATASET: El insert que se uso para importar el movie_dataset.csv a una tabla
+#### Procedimientos: Scrip de las tablas temporales que se usaron para la extraccion de los datos del Json
+
 
 
 
