@@ -16,7 +16,7 @@ Octubre 2021 - Febrero 2022
 Nixon Javier Vuele Irene | njvuele@utpl.edu.ec |
 
 ##### Link del proyecto en Github: 
-https://github.com/aarivera7/Proyecto_Fun._Bases_Datos_Adrian
+https://github.com/NixonVuele/DataBase.git
 
 ##### Profesor: 
 Nelson Piedra | http://investigacion.utpl.edu.ec/nopiedra
@@ -25,10 +25,28 @@ Nelson Piedra | http://investigacion.utpl.edu.ec/nopiedra
 Loja, 8 de febrero del 2022
 
 ### Descrición del proyecto
-Este proyecto fue elaborado por Adrián Rivera (aarivera7) estudiante de tercer ciclo de la UTPL,
-con todos los conocimíentos adquiridos en la materia de Fundamentos de Bases de Datos, el objetivo
-principalde este trabajo es extraer todo los datos de un archivo CSV, que se nos entrego con una
-tabla universal de datos sobre películas, aplicar el proceso de normalización, para luego subir la 
-información referente a cada tabla con los datos del CSV.
+Este proyecto fue elaborado por Nixon Vuele estudiante de tercer ciclo de la Universidad Tecnica Particular de Loja,
+con todos los conocimíentos adquiridos en la materia de Fundamentos de Bases de Datos y reforzados mediante la
+elaboracion de trabajos en clases, tareas y refuerzos, nos ayudo a todos los estudiantes a tener las habilidades 
+necesarias para la elaboracion del proyecto de la catedra integradora, el cual consistia en la extraccion de datos 
+de un archivo CSV otorgada por la misma, este archivo CSV estaba enfocado a una gran lista de peliculas, el cual era
+indispensable aplicar hacer una limpieza de la data y hacer uso del proceso de normalización.
 
-## Descripción de los archivos cargados al repositorio:
+###Datos de la cuenta github donde está cargada la data
+Nombre de usuario: NixonVuele
+Direccion del repositorio: https://github.com/NixonVuele/DataBase.git
+
+## Descripción de los diferentes archivos cargados:
+####Informe-Presentacion:
+####Diagrama ER
+####Informe
+####Normalisacion
+####Presentacion
+###Scripts:
+####Carga de datos
+####Creacion de tablas
+####Insets Movie_DATASET
+####Procedimientos
+
+
+
