@@ -32,21 +32,21 @@ necesarias para la elaboracion del proyecto de la catedra integradora, el cual c
 de un archivo CSV otorgada por la misma, este archivo CSV estaba enfocado a una gran lista de peliculas, el cual era
 indispensable aplicar hacer una limpieza de la data y hacer uso del proceso de normalización.
 
-###Datos de la cuenta github donde está cargada la data
+### Datos de la cuenta github donde está cargada la data
 Nombre de usuario: NixonVuele
 Direccion del repositorio: https://github.com/NixonVuele/DataBase.git
 
 ## Descripción de los diferentes archivos cargados:
-####Informe-Presentacion:
-####Diagrama ER
-####Informe
-####Normalisacion
-####Presentacion
-###Scripts:
-####Carga de datos
-####Creacion de tablas
-####Insets Movie_DATASET
-####Procedimientos
+#### Informe-Presentacion:
+#### Diagrama ER
+#### Informe
+#### Normalisacion
+#### Presentacion
+### Scripts:
+#### Carga de datos
+#### Creacion de tablas
+#### Insets Movie_DATASET
+#### Procedimientos
 
 
 
