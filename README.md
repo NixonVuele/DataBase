@@ -1,6 +1,6 @@
 # DataBase
 ## Universidad Técnica Particular de Loja
-![image]https://www.utpl.edu.ec/manual_imagen/images/institucional/UTPL-INSTITUCIONAL-FC.jpg
+![image].https://www.utpl.edu.ec/manual_imagen/images/institucional/UTPL-INSTITUCIONAL-FC.jpg
 # Proyecto Integrador 2022
 Presentación del proyecto final de Fundamentos de Bases de Datos.
 
